@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Accessibility Auditor
 
-**ai-accessibility-auditor** is part of the Zion Tech Group app network (630+ apps).
+WCAG compliance scanning & AI-powered fixes.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [accessibility-checker](https://github.com/Zion-support/accessibility-checker) · [zion-ai-accessibility-auditor](https://github.com/Zion-support/zion-ai-accessibility-auditor) · [zion-ai-accessibility-fixer](https://github.com/Zion-support/zion-ai-accessibility-fixer) · [ai-compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor)
 
-## Related apps
-- [ai-audit-logger](https://github.com/Zion-support/ai-audit-logger) — AI-driven audit logging and compliance tracking
-- [ai-compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor) — EU AI Act / ISO 42001 automation
-- [ai-compliance-guardian](https://github.com/Zion-support/ai-compliance-guardian) — Regulatory compliance automation
-- [accessibility-checker](https://github.com/Zion-support/accessibility-checker) — WCAG 2.2 issue finder
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
